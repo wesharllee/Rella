@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Mike",
+      "lastName": "Wheeler",
+      "avatar": "https://res.cloudinary.com/wescloud/image/upload/v1664580977/Rella/IMG_4690_t62lty.jpg",
+      "tikTok": true,
+      "youTube": true,
+      "pinterest": true,
+      "linkedIn": false
+    },
+    {
+      "id": 2,
+      "firstName": "Dustin",
+      "lastName": "Henderson",
+      "avatar": "https://res.cloudinary.com/wescloud/image/upload/v1664580977/Rella/IMG_4688_alij5u.jpg",
+      "tikTok": false,
+      "youTube": false,
+      "pinterest": false,
+      "linkedIn": false
+    },
+    {
+      "id": 3,
+      "firstName": "Eleven",
+      "lastName": "",
+      "avatar": "https://res.cloudinary.com/wescloud/image/upload/v1664580977/Rella/IMG_4689_z0vsan.jpg",
+      "tikTok": false,
+      "youTube": false,
+      "pinterest": false,
+      "linkedIn": false
+    }
+  ]
+}
