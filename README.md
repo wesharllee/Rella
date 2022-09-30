@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+### `Run Server` 
+You will need to open 2 terminal windows. One for the "server" as well as one to power localhost3000. 
+
+Use Command: 
+json-server -p 8088 database.json
+
 In the project directory, you can run:
 
 ### `npm start`
@@ -13,6 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
 
 ### `npm test`
 
