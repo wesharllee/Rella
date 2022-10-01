@@ -57,12 +57,12 @@
 }
 .circle-img {
     display: flex;
-    font-size: 85px;
+    
     justify-content: right;
     align-items: center;
     border-radius: 15rem;
-    max-width: 300px;
-    max-height: 300px;
+    max-width: 150px;
+    max-height: 150px;
 }
 
 

@@ -21,7 +21,7 @@ export const Rella = () => {
                     return <div className="list-container">
                         <div className="title-box">
                             <img className="circle-img" src={avatar} />
-                            <div className="title-1">{fullName}</div>
+                            <div className="title-2">{fullName}</div>
                         </div>
 
                         <div className="title-3">TikTok</div>
